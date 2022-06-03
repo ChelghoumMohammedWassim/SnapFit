@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">SnapFit</string>
+    //page d'accueil
+    <string name="Home_Page_Title">A Découvrir</string>
+    <string name="Home_Page_Exercice_Section">Exercice</string>
+    //exercice
+    <string name="Item_Exercice_Name">Nom d\'exercice</string>
+    <string name="Item_Exercice_Muscle">Muscle</string>
+    //page d'accueil
+    <string name="Collection_Page_Title">Ma Collection</string>
+    //page ajout d exercices
+    <string name="Add_page_title">Ajout un exerecice</string>
+    <string name="Add_page_upload_button">Charger Image</string>
+    <string name="Add_page_Name_Input">@string/Item_Exercice_Name</string>
+    <string name="Add_page_Exercice_input">@string/Item_Exercice_Muscle</string>
+    <string-array name="Add_Exercice_Page_nbserie">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="muscle_name">
+        <item>Pec</item>
+        <item>Dos</item>
+        <item>Jambes</item>
+        <item>Biceps</item>
+        <item>Triceps</item>
+        <item>Paule</item>
+        <item>Cardio</item>
+    </string-array>
+    <string name="Add_page_confirme">Confirmer</string>
+    //popup
+    <string name="Popup_Exercice_Name">Nom d\'exercice</string>
+    <string name="Popup_Exercice_Muscle_title">Muscle</string>
+    <string name="Popup_Exercice_Muscle_subtitle">muscle</string>
+    <string name="Popup_Exercice_nbserie_title">Nombre de serie</string>
+    <string name="Popup_Exercice_nbserie_subtitle">3</string>
+    <string name="popup_Exercice_timer">Minuteur</string>
+
+    //profile
+    <string name="Profile_Mes_exercices">Mes exercices</string>
+    <string name="Profile_sign_out">Déconnecter</string>
+    //popuo delete
+    <string name="delete_conformation">Est-ce que vous être sûr de supprimer cet élément ?</string>
+    //menu
+    <string name="item_home">Accueil</string>
+    <string name="item_favorite">Favorite</string>
+    <string name="item_profile">Profile</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>

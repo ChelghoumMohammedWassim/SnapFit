@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ch/AndroidStudioProjects/Memoire/app/src/main/res/drawable-anydpi/ic_add.xml" value="0.3828125" />
+        <entry key="..\:/Users/ch/AndroidStudioProjects/Memoire/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Users/ch/AndroidStudioProjects/Memoire/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/ch/AndroidStudioProjects/Memoire/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ch/AndroidStudioProjects/Memoire/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ch/AndroidStudioProjects/Memoire/app/src/main/res/layout/item_horizontal_exercice.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ch/AndroidStudioProjects/Memoire/app/src/main/res/layout/item_vertical_exercice.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ch/Desktop/12-05/app/src/main/res/drawable-hdpi/progress_bg.xml" value="0.310126582278481" />
+        <entry key="..\:/Users/ch/Desktop/12-05/app/src/main/res/drawable/home_bottom_nav.xml" value="0.3141025641025641" />
+        <entry key="..\:/Users/ch/Desktop/12-05/app/src/main/res/layout-sw320dp/activity_main2.xml" value="0.2329059829059829" />
+        <entry key="..\:/Users/ch/Desktop/12-05/app/src/main/res/layout-sw320dp/fragment_add.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/12-05/app/src/main/res/layout/activity_main.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/12-05/app/src/main/res/layout/activity_splash_screan.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/12-05/app/src/main/res/layout/activity_steps_counter.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/12-05/app/src/main/res/layout/activity_video.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/12-05/app/src/main/res/layout/fragment_add_video.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/12-05/app/src/main/res/layout/fragment_filter.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/12-05/app/src/main/res/layout/fragment_home.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/12-05/app/src/main/res/layout/fragment_login.xml" value="0.2970464135021097" />
+        <entry key="..\:/Users/ch/Desktop/12-05/app/src/main/res/layout/fragment_profile.xml" value="0.2329059829059829" />
+        <entry key="..\:/Users/ch/Desktop/12-05/app/src/main/res/layout/fragment_register.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/12-05/app/src/main/res/layout/fragment_video.xml" value="0.2329059829059829" />
+        <entry key="..\:/Users/ch/Desktop/12-05/app/src/main/res/layout/item_my_videos.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/12-05/app/src/main/res/layout/item_vertical_exercice.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/12-05/app/src/main/res/layout/item_video.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/12-05/app/src/main/res/layout/popup_exercice_details.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/12-05/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.2329059829059829" />
+        <entry key="..\:/Users/ch/Desktop/12-05/app/src/main/res/menu/home_page_menu.xml" value="0.1" />
+        <entry key="..\:/Users/ch/Desktop/12-05/app/src/main/res/menu/optionmenu.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/15.03.2020/app/src/main/res/layout-sw320dp/activity_main2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ch/Desktop/15.03.2020/app/src/main/res/layout-sw320dp/fragment_add.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ch/Desktop/15.03.2020/app/src/main/res/layout/activity_main2.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/15.03.2020/app/src/main/res/layout/fragment_add.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ch/Desktop/15.03.2020/app/src/main/res/layout/fragment_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ch/Desktop/15.03.2020/app/src/main/res/layout/item_horizontal_exercice.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/15.03.2020/app/src/main/res/layout/item_vertical_exercice.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/15.03.2020/app/src/main/res/layout/popup_exercice_details.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/Khadma/Memoire - Copie - Copie/app/src/main/res/drawable-hdpi/ic_lock.xml" value="0.24177631578947367" />
+        <entry key="..\:/Users/ch/Desktop/Khadma/Memoire - Copie - Copie/app/src/main/res/drawable-hdpi/ic_person.xml" value="0.24177631578947367" />
+        <entry key="..\:/Users/ch/Desktop/Khadma/Memoire - Copie - Copie/app/src/main/res/drawable-hdpi/progress_bg.xml" value="0.24177631578947367" />
+        <entry key="..\:/Users/ch/Desktop/Khadma/Memoire - Copie - Copie/app/src/main/res/layout/activity_main2.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/ch/Desktop/Khadma/Memoire - Copie - Copie/app/src/main/res/layout/fragment_add.xml" value="0.2293159609120521" />
+        <entry key="..\:/Users/ch/Desktop/Khadma/Memoire - Copie - Copie/app/src/main/res/layout/fragment_profile.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/ch/Desktop/Khadma/Memoire - Copie - Copie/app/src/main/res/layout/popup_delete.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/ch/Desktop/Khadma/Memoire - user email/app/src/main/res/drawable/bottom_nav_color.xml" value="0.3141025641025641" />
+        <entry key="..\:/Users/ch/Desktop/Khadma/Memoire - user email/app/src/main/res/font/kanit.xml" value="0.32564102564102565" />
+        <entry key="..\:/Users/ch/Desktop/Khadma/Memoire - user email/app/src/main/res/layout/activity_main.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/Khadma/Memoire - user email/app/src/main/res/layout/activity_main2.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/Khadma/Memoire - user email/app/src/main/res/layout/fragment_favorite.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/Khadma/Memoire - user email/app/src/main/res/layout/popup_exercice_details.xml" value="0.27037037037037037" />
+        <entry key="..\:/Users/ch/Desktop/Khadma/Memoire - user email/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/Khadma/Memoire/app/src/main/res/drawable/costombutton.xml" value="0.3828125" />
+        <entry key="..\:/Users/ch/Desktop/Khadma/Memoire/app/src/main/res/drawable/custom_input.xml" value="0.24177631578947367" />
+        <entry key="..\:/Users/ch/Desktop/Khadma/Memoire/app/src/main/res/drawable/ic_pause.xml" value="0.3828125" />
+        <entry key="..\:/Users/ch/Desktop/Khadma/Memoire/app/src/main/res/drawable/ic_play.xml" value="0.3828125" />
+        <entry key="..\:/Users/ch/Desktop/Khadma/Memoire/app/src/main/res/drawable/ic_stop.xml" value="0.3828125" />
+        <entry key="..\:/Users/ch/Desktop/Khadma/Memoire/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ch/Desktop/Khadma/Memoire/app/src/main/res/layout/fragment_add.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/ch/Desktop/Khadma/Memoire/app/src/main/res/layout/fragment_home.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/ch/Desktop/Khadma/Memoire/app/src/main/res/layout/item_horizontal_exercice.xml" value="0.26197916666666665" />
+        <entry key="..\:/Users/ch/Desktop/Khadma/Memoire/app/src/main/res/layout/item_vertical_exercice.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/ch/Desktop/Khadma/Memoire/app/src/main/res/layout/popup_exercice_details.xml" value="0.33" />
+        <entry key="..\:/Users/ch/Desktop/Memoire - user email - add-profile - son fav - Copie (2)/app/src/main/res/layout/fragment_favorite.xml" value="0.2970464135021097" />
+        <entry key="..\:/Users/ch/Desktop/Memoire - user email - add-profile/app/src/main/res/layout/activity_main.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/Memoire - user email - add-profile/app/src/main/res/layout/activity_main2.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/Memoire - user email - add-profile/app/src/main/res/layout/fragment_add.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/Memoire - user email - add-profile/app/src/main/res/layout/fragment_favorite.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/Memoire - user email - add-profile/app/src/main/res/layout/fragment_home.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/Memoire - user email - add-profile/app/src/main/res/layout/fragment_profile.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/Memoire - user email - add-profile/app/src/main/res/layout/popup_delete.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/Memoire - user email - add-profile/app/src/main/res/layout/popup_exercice_details.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/Memoire - user email/app/src/main/res/layout/activity_main.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/Memoire - user email/app/src/main/res/layout/fragment_add.xml" value="0.2970464135021097" />
+        <entry key="..\:/Users/ch/Desktop/Memoire - user email/app/src/main/res/layout/fragment_home.xml" value="0.2970464135021097" />
+        <entry key="..\:/Users/ch/Desktop/Memoire - user email/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/dork/app/src/main/res/layout-sw320dp/activity_main2.xml" value="0.18" />
+        <entry key="..\:/Users/ch/Desktop/dork/app/src/main/res/layout-sw320dp/fragment_add.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/dork/app/src/main/res/layout/activity_main2.xml" value="2.5142857142857142" />
+        <entry key="..\:/Users/ch/Desktop/dork/app/src/main/res/layout/activity_splash_screan.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/dork/app/src/main/res/layout/fragment_add.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ch/Desktop/memoir/12-05/app/src/main/res/layout/activity_video.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/memoir/12-05/app/src/main/res/layout/fragment_profile.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/memoir/12-05/app/src/main/res/layout/item_video.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/memoir/29-04-2022/app/src/main/res/layout/item_vertical_exercice.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/drawable-anydpi/ic_add.xml" value="0.3141025641025641" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/drawable-anydpi/ic_home.xml" value="0.22948717948717948" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/drawable-anydpi/ic_search.xml" value="0.310126582278481" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/drawable-anydpi/ic_star.xml" value="0.22948717948717948" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/drawable-hdpi/ic_lock.xml" value="0.310126582278481" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/drawable-hdpi/ic_person.xml" value="0.310126582278481" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.310126582278481" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/drawable/bottom_nav_color.xml" value="0.3141025641025641" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/drawable/costombutton.xml" value="0.3141025641025641" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/drawable/custom_input.xml" value="0.3141025641025641" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/drawable/custombutton.xml" value="0.3141025641025641" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/drawable/ic_add.xml" value="0.3141025641025641" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/drawable/ic_pause.xml" value="0.310126582278481" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/drawable/ic_play.xml" value="0.310126582278481" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/drawable/ic_wave.xml" value="0.3141025641025641" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/drawable/menu_back.xml" value="0.3141025641025641" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/drawable/menu_back_state.xml" value="0.3141025641025641" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/drawable/menu_item_pading.xml" value="0.3141025641025641" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/drawable/poup_background.xml" value="0.3141025641025641" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/drawable/searchebar.xml" value="0.3141025641025641" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/drawable/sign-out-alt_24.xml" value="0.310126582278481" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/layout-sw320dp/activity_main2.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/layout-sw320dp/fragment_add.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/layout/activity_main.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/layout/activity_main2.xml" value="2.5142857142857142" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/layout/activity_splash_screan.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/layout/fragment_add.xml" value="2.5142857142857142" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/layout/fragment_category.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/layout/fragment_edite.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/layout/fragment_favorite.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/layout/fragment_filter.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/layout/fragment_home.xml" value="0.2970464135021097" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/layout/fragment_login.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/layout/fragment_profile.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/layout/fragment_register.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/layout/fragment_search.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/layout/fragment_steps_counter.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/layout/item_horizontal_exercice.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/layout/item_vertical_exercice.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/layout/muscle_item.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/layout/nav_header.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/layout/nb_serie_item.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/layout/popup_exercice_details.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/layout/spiner_item.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/ch/Desktop/memoir/dork - Copie/app/src/main/res/menu/optionmenu.xml" value="0.28703703703703703" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.18" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

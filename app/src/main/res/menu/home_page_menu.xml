@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/activity"
+        android:title="Activiter"
+        android:icon="@drawable/activity_icon"
+        android:iconTint="@color/white"
+        />
+    <item
+        android:id="@+id/short_video"
+        android:title="Short"
+        android:icon="@drawable/ic_video"
+        android:iconTint="@color/white"/>
+    <item
+        android:id="@+id/steps_conter"
+        android:title="Pas"
+        android:icon="@drawable/step"
+        android:iconTint="@color/white"/>
+    <item
+        android:id="@+id/empty"
+        android:title=""
+        />
+</menu>

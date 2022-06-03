@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home_page"
+            android:icon="@drawable/home"
+            android:title="@string/item_home" />
+        <item
+            android:id="@+id/favorite_page"
+            android:icon="@drawable/star"
+            android:title="@string/item_favorite" />
+        <item
+            android:id="@+id/profile_page"
+            android:icon="@drawable/person"
+            android:title="Mon Profile" />
+
+        <item
+            android:id="@+id/profile_video"
+            android:icon="@drawable/ic_video"
+            android:title="Mes Videos"/>
+
+    </group>
+
+    <item android:title="Filtrer" >
+
+        <menu>
+
+            <group android:checkableBehavior="single">
+                <item  android:id="@+id/Pec" android:title="Pec" android:icon="@drawable/pec"/>
+                <item  android:id="@+id/Dos" android:title="Dos" android:icon="@drawable/dos"/>
+                <item  android:id="@+id/Paule" android:title="Paule" android:icon="@drawable/paule"/>
+                <item  android:id="@+id/Jambe" android:title="Jambe" android:icon="@drawable/jambe"/>
+                <item  android:id="@+id/Biceps" android:title="Biceps" android:icon="@drawable/bicepes"/>
+                <item  android:id="@+id/Triceps" android:title="Triceps" android:icon="@drawable/triceps"/>
+                <item  android:id="@+id/Cardio" android:title="Cardio" android:icon="@drawable/cardio"/>
+
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/logout"
+                    android:icon="@drawable/logout"
+                    android:title="Deconextion"/>
+            </group>
+        </menu>
+    </item>
+</menu>
+
+

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3207415684",
+    "project_id": "memoire-b4f08",
+    "storage_bucket": "memoire-b4f08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3207415684:android:0c1aec3f20039dba80ffd1",
+        "android_client_info": {
+          "package_name": "com.example.memoire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3207415684-nnkko6boo01mfk90er00dp8d49fn95ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnGbziSIofwLT_gjefPYk5-Rnsvs8V8Xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3207415684-nnkko6boo01mfk90er00dp8d49fn95ob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

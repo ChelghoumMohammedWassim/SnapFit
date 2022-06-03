@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/LightGray"
+    android:layout_height="match_parent">
+
+    <VideoView
+        android:id="@+id/videoView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginRight="@dimen/DefaultMargin"
+        android:id="@+id/trach_icon_video"
+        android:src="@drawable/ic_trach"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="@+id/title_video"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/image_video" />
+
+    <ProgressBar
+        android:id="@+id/progressBar_video"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:indeterminateTint="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/title_video"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/DefaultMargin"
+        android:text="title"
+        android:textColor="@color/white"
+        android:layout_marginBottom="15dp"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/desception_video"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/image_video"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginLeft="@dimen/DefaultMargin"
+        android:layout_marginBottom="10dp"
+        android:src="@drawable/user_video"
+        app:layout_constraintBottom_toTopOf="@+id/title_video"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:textColor="@color/white"
+        android:id="@+id/email_video"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="email"
+        android:textSize="17sp"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintBottom_toBottomOf="@+id/image_video"
+        app:layout_constraintStart_toEndOf="@+id/image_video"
+        app:layout_constraintTop_toTopOf="@+id/image_video" />
+
+    <TextView
+        android:id="@+id/desception_video"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Descreption"
+        android:textSize="16sp"
+        android:textColor="@color/white"
+        android:layout_marginBottom="70dp"
+        android:layout_marginLeft="@dimen/DefaultMargin"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
