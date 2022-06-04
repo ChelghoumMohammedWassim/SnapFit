@@ -38,6 +38,7 @@ var shortVideo = false
 lateinit var loadBar: ProgressBar
 lateinit var connectionTex: TextView
 
+//v04
 
 class MainActivity : AppCompatActivity() {
     val repo = ExerciceRepository()
