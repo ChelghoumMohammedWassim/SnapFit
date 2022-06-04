@@ -184,6 +184,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         navView.setNavigationItemSelectedListener {
+            profileClicked = false
             addButton.visibility = View.VISIBLE
             btn?.visibility = View.VISIBLE
             addshadow.visibility = View.VISIBLE
