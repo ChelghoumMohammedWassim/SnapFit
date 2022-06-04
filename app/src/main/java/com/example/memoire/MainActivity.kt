@@ -254,7 +254,6 @@ class MainActivity : AppCompatActivity() {
                         }
                     }
                 }
-
                 R.id.logout -> {
                     SinOut()
                 }
