@@ -80,7 +80,6 @@ class AddFragment(private val context: MainActivity) : Fragment() {
 
                 //ajouter a la base real
                 repo.insertExercice(exercice)
-
                 progressBar.visibility = View.INVISIBLE
                 conBtn?.visibility = View.VISIBLE
                 view.findViewById<EditText>(R.id.name_input).text.clear()
