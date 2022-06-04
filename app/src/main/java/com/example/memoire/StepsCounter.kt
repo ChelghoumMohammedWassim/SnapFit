@@ -111,7 +111,7 @@ class StepsCounter : AppCompatActivity(), SensorEventListener {
         }
         val d = ("%.2f".format(distance))
         distance_tv.text = "${d.toString()} ${unit}"
-        val calorie = (distance * 0.073)
+        val calorie = (distance * 0.73)
         calorie_tv.text = "${calorie.toInt().toString()}"
     }
 
