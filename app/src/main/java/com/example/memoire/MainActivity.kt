@@ -394,14 +394,11 @@ class MainActivity : AppCompatActivity() {
 
     // lancer l activity des video
     fun startVideoActivity() {
-        val repo = VideoRepository()
-        repo.updateData {
             if (shortVideo) {
                 val intent = Intent(this, VideoActivity::class.java)
                 startActivity(intent)
                 shortVideo = false
             }
-        }
     }
 
     //lancer l activity de coneteur de pas
