@@ -179,8 +179,10 @@ class MainActivity : AppCompatActivity() {
         val navUserImage: ImageView = headerview.findViewById(R.id.nav_user_image)
         val favrepo = ProfileRepository()
         favrepo.getImage {
-            if (User_Image != null) {
+            if(!this.isDestroyed){
+                if (User_Image != null) {
                 Glide.with(this).load(Uri.parse(User_Image)).into(navUserImage)
+                }
             }
         }
 
