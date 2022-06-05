@@ -6,6 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
+import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.example.memoire.*
@@ -45,6 +46,7 @@ class ExerciceAdapteur(val context:MainActivity, private val exerciceList:List<E
                 val repos = ExerciceRepository()
                 repos.deleteExercice(currentExercice)
                 profileClicked=true
+                Toast.makeText(context,"La publication est supprimée",Toast.LENGTH_SHORT).show()
                 true
             }
         }
