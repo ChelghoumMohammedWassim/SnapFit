@@ -1,19 +1,2 @@
-# ChelghoumMohammedOuassim
-Aujourd’hui, les gens s'intéressent beaucoup au sport et veulent partager leur expérience et 
-ne peuvent faire cela qu’avec un nombre limité de personne car Il Ya un manque cruel des 
-réseaux sociaux conçu pour ce domaine.
-Le but de ce projet est de fournir un réseau social qui facilite à l’utilisateur d’acquérir des 
-informations de domaine sportif et de réduire le temps de recherche des informations et permet 
-aux utilisateurs de partager leur expérience en employant ou bien des images ou des vidéos.
-Dans notre application, l'utilisateur doit créer son propre compte pour accéder à la page 
-d'accueil où il peut consulter les publications des autres, il peut afficher les détails de chaque 
-publication des exercice physique (image), ou il peut agir avec un j’aime pour l’ajouter à sa
-liste des favoris. Regarder des vidéos explicatives ou il trouve le titre de chaque vidéo et l’email 
-de publicateur.
-L’utilisateur a la liberté de naviguer dans l’application on utilisant le menu de navigation, il a
-le droit de consulter son profil ou il trouve les exercice qu’ il les a publié ,il peut les supprimer,
-de même il peut voir et modifier sa photo de profil, ainsi que sa liste des favoris a tous 
-moment, cette application donne la liberté a tout utilisateur de publier des exercice physiques 
-sous forme d’image ou de vidéo, en plus de tous cette application met à sa disposition une 
-option qui lui permet de calculer les statistiques de ses mouvement d’une manière 
-approximative.
+## SnapFit
+Today, people are very interested in sports and want to share their experiences, but they can only do so with a limited number of people because there is a severe lack of social networks designed for this field. The purpose of this project is to provide a social network that facilitates the user's acquisition of sports-related information, reduces the time spent searching for information, and allows users to share their experiences by using images or videos. In our application, the user must create their own account to access the homepage where they can view other people's posts. They can view the details of each physical exercise publication (image) and can interact by liking it to add it to their favorites list. They can also watch explanatory videos, where they will find the title of each video and the publisher's email. The user has the freedom to navigate the application using the navigation menu and can view their profile, where they can find the exercises they have published and can delete them. They can also view and modify their profile picture as well as their favorites list at any time. This application gives every user the freedom to publish physical exercises in the form of images or videos. Additionally, the application provides an option that allows users to calculate approximate statistics of their movements.
